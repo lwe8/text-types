@@ -23,9 +23,6 @@
     "url": "https://github.com/lwe8/text-types/issues"
   },
   "homepage": "https://github.com/lwe8/text-types#readme",
-  "dependencies": {
-    "@types/hast": "^3.0.4"
-  },
   "publishConfig": {
     "provenance": true,
     "access": "public"
